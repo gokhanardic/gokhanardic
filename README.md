@@ -6,7 +6,7 @@ Web Developer and Designer
 
 * 🌍  I'm based in Manisa
 * ✉️  You can contact me at [gkhnardic@gmail.com](mailto:gkhnardic@gmail.com)
-* 🧠  I'm learning react
+* 🧠  I'm learning C#
 
 <a href="https://www.twitter.com/gkhn_3773" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/gkhn_3773?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
