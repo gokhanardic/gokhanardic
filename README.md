@@ -7,7 +7,6 @@ Web Developer and Designer
 * 🌍  I'm based in Manisa
 * ✉️  You can contact me at [gkhnardic@gmail.com](mailto:gkhnardic@gmail.com)
 * 🧠  I'm learning react
-* ⚡  nvhbn
 
 <a href="https://www.twitter.com/gkhn_3773" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/gkhn_3773?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -33,7 +32,3 @@ src="https://img.shields.io/github/followers/gokhanardic?logo=github&style=for-t
 ### Badges
 
 <a href="https://github.com/gokhanardic" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokhanardic&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/gjhjkh"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
